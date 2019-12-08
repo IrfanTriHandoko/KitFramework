@@ -17,7 +17,7 @@ s.dependency 'SDWebImage', '~>4.4.6'
 s.dependency 'SDWebImage/GIF', '~>4.4.6'
 s.dependency 'HexColors'
 s.dependency 'UIViewController+KeyboardAnimation'
-s.dependency 'ChameleonFramework/Swift', '~2.2.0'
+s.dependency 'ChameleonFramework/Swift', '~>2.2.0'
 s.dependency 'IQKeyboardManager'
 s.dependency 'UIImageView-Letters'
 
